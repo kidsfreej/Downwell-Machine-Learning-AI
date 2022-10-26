@@ -1,0 +1,1 @@
+downwell_file = r"E:\Steam\steamapps\common\Downwell\Downwell.exe"
